@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "disciply-integration"
+    "default": "disciply-integration",
+    "staging": "disciply-staging",
+    "production": "disciply-production"
   }
 }
